@@ -1,0 +1,17 @@
+    html>
+    <head>
+        <title>document</title>
+        <html>
+    <head>
+        <title>document</title>
+        <style>
+            p{color:Green;Background:Green}
+            </style>
+    </head>
+    <body>
+        <p>A</p>
+        <P>B</P>
+        <p>C</p>
+        <p>D</p>
+    </body>
+</html>
